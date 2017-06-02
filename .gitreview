@@ -1,0 +1,5 @@
+[gerrit]
+host=review.xosp.org
+port=29418
+project=android_vendor_qcom_opensource_time-services.git
+defaultbranch=xosp-n-rebase
